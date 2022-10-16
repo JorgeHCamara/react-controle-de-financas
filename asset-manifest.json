@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.a14e87eb.js",
-    "index.html": "/index.html",
-    "main.a14e87eb.js.map": "/static/js/main.a14e87eb.js.map"
+    "main.js": "/react-controle-de-financas/static/js/main.7008583a.js",
+    "index.html": "/react-controle-de-financas/index.html",
+    "main.7008583a.js.map": "/react-controle-de-financas/static/js/main.7008583a.js.map"
   },
   "entrypoints": [
-    "static/js/main.a14e87eb.js"
+    "static/js/main.7008583a.js"
   ]
 }
